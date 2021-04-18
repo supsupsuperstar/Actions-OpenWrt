@@ -65,7 +65,8 @@ CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-vssr=y
 CONFIG_PACKAGE_luci-app-vlmcsd=y
 CONFIG_PACKAGE_luci-app-qosv4=y
-
+CONFIG_PACKAGE_ddns-scripts_dnspod=y
+CONFIG_PACKAGE_luci-app-zerotier=y
 EOF
 
 # 常用软件 默认已启用
